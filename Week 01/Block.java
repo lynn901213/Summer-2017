@@ -1,4 +1,4 @@
-package CSE360_example;
+package CSE360;
 import java.awt.Color;
 import java.awt.Graphics;
 
