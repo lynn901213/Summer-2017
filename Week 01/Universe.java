@@ -15,12 +15,7 @@ public class Universe extends JFrame {
     public Universe () {
      GridLayout grid = new GridLayout (3,2);   
      setLayout(grid);
-     this.add(new Team0());
-     this.add(new Team0());
-     this.add(new Team0());
-     this.add(new Team0());
-     this.add(new Team0());
-     this.add(new Team0());
+     this.add(new Team2());
     }
 
     public static void main(String[] args) {
